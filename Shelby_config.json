@@ -1,0 +1,17 @@
+{
+  "organization": "Shelby Company Ltd.",
+  "operational_unit": "Arcadius Business Center - Los Santos",
+  "it_department": "Cybersecurity & Data Intelligence",
+  "servers": {
+    "primary_node": "arcadius-core-01.shelby.internal",
+    "secondary_backup": "vice-city-node-02.shelby.internal",
+    "network_status": "Operational",
+    "encrypted_port": 8443
+  },
+  "security_policies": {
+    "required_access_level": "Executive - Level 5",
+    "two_factor_auth": true,
+    "data_encryption": "AES-256",
+    "audit_logging": true
+  }
+}
